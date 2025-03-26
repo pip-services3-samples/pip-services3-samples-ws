@@ -12,7 +12,7 @@ This is a workspace for [Pip.Services V3](http://www.pipservices.org) samples im
 
 Clone this workspace to local disk
 ```bash
-> git clone https://github.com/pip-services-samples/pip-services-samples-ws.git
+> git clone https://github.com/pip-services3-samples/pip-services3-samples-ws.git
 ```
 
 ## Usage
